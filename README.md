@@ -8,3 +8,5 @@ Startup orientation : Portrait <br>
 Emulated Performance <br>
 Graphics : Automatic <br>
 Device Frame : Enable Device Frame <br>
+
+대학교 건물 위치와 강의실이 사용중인지 보여주는 간단한 코드입니다.
